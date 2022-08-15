@@ -346,7 +346,7 @@ nav .container .navdata button:nth-of-type(3) i {
   margin-top: 13px;
 }
 
-.courses .container .courses_matrial .matrial .box .authors {
+.courses .container .courses_matrial .matrial .box span {
   font-size: 15px;
   color: rgba(128, 128, 128, 0.798);
   display: block;
@@ -358,10 +358,6 @@ nav .container .navdata button:nth-of-type(3) i {
   align-items: center;
   color: orange;
   margin-bottom: 7px;
-}
-
-.price span {
-  font-weight: lighter;
 }
 
 .courses .container .courses_matrial .matrial .rank span {
