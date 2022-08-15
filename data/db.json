@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "python from zero to hero",
+      "author": "maximlian",
+      "image": "https://www.virtualbeehive.com/it/python-training-object-development/"
+    },
+    {
+      "id": 2,
+      "title": "javascript from zero to hero",
+      "author": "stephen",
+      "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg"
+    }
+  ]
+}
